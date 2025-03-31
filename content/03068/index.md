@@ -27,7 +27,8 @@ This EIP remedies this by implementing a hash-to-curve algorithm
 for the BN256 G1 curve, which would reduce the cost of
 signature verification to essentially that of the pairing check
 precompiled contract.
-We also include a hash-to-curve algorithm for the BN256 G2 group.
+We also include a hash-to-curve algorithm for the BN256 G2 group. This
+is a dummy change.
 
 ## Motivation
 The precompiled contracts in
